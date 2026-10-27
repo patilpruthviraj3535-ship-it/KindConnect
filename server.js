@@ -102,7 +102,9 @@ const baseNGOs = [
   ["JOSHConnect Foundation","joshconnect-foundation","🎒","A community-focused organisation connecting people with practical support initiatives.","Create meaningful community impact by connecting resources with people who need them.","Education, livelihood and essential-support initiatives.","Connect resources. Create change.","Kharadi, Pune","+91 9359876467","","https://www.joshconnect.org/",1],
   ["Seva Sahayog Foundation","seva-sahayog-foundation","🤲","A Pune community organisation supporting people through education, food and essential goods.","Strengthen communities through service and practical support.","Community essentials, education and support programmes.","Seva through community.","Navi Peth, Pune","020 24537655","","https://sevasahayog.org/",1],
   ["Helpage India","helpage-india-pune","❤️","An organisation working to support older people and their wellbeing.","Enable a dignified and secure life for elderly people.","Elder-care support and community assistance.","Ageing with dignity.","Alandi Road, Pune","020 20265513","","https://www.helpageindia.org/",1],
- ["Roti Bank - Ark Charitable Trust","roti-bank-pune","🍚","A food-support initiative helping connect meals with people who need them.","Reduce food insecurity by redirecting usable food and supporting meal access.","Meal distribution and food-support initiatives.","Meals for everyone.","Pune, Maharashtra","","","",0]
+   ["Roti Bank - Ark Charitable Trust","roti-bank-pune","🍚","A food-support initiative helping connect meals with people who need them.","Reduce food insecurity by redirecting usable food and supporting meal access.","Meal distribution and food-support initiatives.","Meals for everyone.","Pune, Maharashtra","","","",0]
+];
+
 const baseRequirements = {
   "akanksha-organization":[["School Bags","education",40,16,"urgent"],["Notebooks","books",80,47,"urgent"],["Clothes","clothes",30,14,"normal"]],
   "akanksha-foundation":[["Notebooks","books",80,47,"urgent"],["School Bags","education",35,22,"normal"],["Art Supplies","education",30,18,"normal"]],
